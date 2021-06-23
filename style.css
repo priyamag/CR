@@ -1,0 +1,42 @@
+.container {
+    text-align: center;
+    background-color: tomato;
+    height: 100%;
+    width: 100%;
+    margin: auto;
+}
+
+table {
+    margin: auto;
+    overflow: hidden;
+}
+
+input[type="button"] {
+    background-color: lightgreen;
+    border-radius: 40px;
+    font-size: 20px;
+    height: 100%;
+    width: 100%;
+    font-weight: 400;
+    font-size: 30px;
+}
+
+input[type="text"] {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+ 
+    height: 70px;
+    width: 100%;
+    font-weight: 400;
+    font-size: 30px;
+}
+
+table td {
+    height: 80px;
+    width: 100px;
+}
+
+body {
+    background-color: black;
+}
